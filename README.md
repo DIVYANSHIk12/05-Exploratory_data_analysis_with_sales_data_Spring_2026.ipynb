@@ -1,2 +1,2 @@
 # 05-Exploratory_data_analysis_with_sales_data_Spring_2026.ipynb
-Exploratory data Analysis using house price index dataset
+Exploratory data Analysis using house price indiadataset
